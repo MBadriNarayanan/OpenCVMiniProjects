@@ -10,7 +10,7 @@
 
 ## [Mini Project 4 : Finding Waldo Using Template Matching](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Finding%20Waldo.ipynb)
 
-## [Mini Project 5 : ]()
+## [Mini Project 5 : Object detection using SIFT & ORB](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Object%20Detection%20using%20SIFT%20%26%20ORB.ipynb)
 
 ## [Mini Project 6 : ]()
 
