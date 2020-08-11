@@ -12,7 +12,7 @@
 
 ## [Mini Project 5 : Object detection using SIFT & ORB](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Object%20Detection%20using%20SIFT%20%26%20ORB.ipynb)
 
-## [Mini Project 6 : ]()
+## [Mini Project 6 : Car & Pedestrian Detection](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Car%20%26%20Pedestrian%20Detection.ipynb)
 
 ## [Mini Project 7 : ]()
 
