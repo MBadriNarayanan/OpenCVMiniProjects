@@ -14,9 +14,9 @@
 
 ## [Mini Project 6 : Car & Pedestrian Detection](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Car%20%26%20Pedestrian%20Detection.ipynb)
 
-## [Mini Project 7 : ]()
+## [Mini Project 7 : Live Face Swap](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Live%20Face%20Swap.ipynb) 
 
-## [Mini Project 8 : ]()
+## [Mini Project 8 : Yawn Detector and Counting](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Yawn%20Detector%20and%20Counting.ipynb)
 
 ## [Mini Project 9 : ]()
 
