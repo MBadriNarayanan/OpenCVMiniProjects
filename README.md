@@ -26,7 +26,7 @@
 
 ## [Mini Project 11 : Object Tracking](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Object%20Tracking.ipynb)
 
-## [Mini Project 12 : ]()
+## [Mini Project 12 : Photo Restoration](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Photo%20Restoration.ipynb)
 
 ## [Mini Project 13 : ]()
 
