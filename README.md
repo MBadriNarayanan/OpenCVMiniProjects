@@ -2,7 +2,7 @@
 
 15 Mini Projects done using OpenCV in Python as a part of Master Computer Vision™ OpenCV4 in Python with Deep Learning course offered by Udemy. Created and taught by Rajeev D. Ratan.
 
-## [Course Repository](ComputerVisionWithOpenCV4UsingDeepLearning)
+## [Course Repository](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning)
 
 ## [Mini Project 1 : Live Sketching Using Web Cam Using Canny Edge Detection and Gaussian Blur](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Live%20Sketching%20Using%20Web%20Cam.ipynb)
 
