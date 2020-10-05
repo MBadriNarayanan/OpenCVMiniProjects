@@ -24,7 +24,7 @@
 
 ## [Mini Project 10 : Face Recognition](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Face%20Recognition.ipynb)
 
-## [Mini Project 11 : ]()
+## [Mini Project 11 : Object Tracking](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Object%20Tracking.ipynb)
 
 ## [Mini Project 12 : ]()
 
