@@ -20,7 +20,7 @@
 
 ## [Mini Project 9 : ]()
 
-## [Mini Project 10 : ]()
+## [Mini Project 10 : Face Recognition](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Face%20Recognition.ipynb)
 
 ## [Mini Project 11 : ]()
 
