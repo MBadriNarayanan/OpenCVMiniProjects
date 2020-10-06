@@ -28,7 +28,7 @@
 
 ## [Mini Project 12 : Photo Restoration](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Photo%20Restoration.ipynb)
 
-## [Mini Project 13 : ]()
+## [Mini Project 13 : Automatic Number Plate Recognition](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Automatic%20Number%20Plate%20Recognition.ipynb)
 
 ## [Mini Project 14 : ]()
 
