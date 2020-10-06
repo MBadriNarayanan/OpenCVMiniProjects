@@ -1,6 +1,6 @@
 # OpenCVMiniProjects
 
-15 Mini Projects done using OpenCV in Python as a part of Master Computer Vision™ OpenCV4 in Python with Deep Learning course offered by Udemy. Created and taught by Rajeev D. Ratan.
+13 Mini Projects done using OpenCV in Python as a part of Master Computer Vision™ OpenCV4 in Python with Deep Learning course offered by Udemy. Created and taught by Rajeev D. Ratan.
 
 ## [Course Repository](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning)
 
@@ -29,7 +29,3 @@
 ## [Mini Project 12 : Photo Restoration](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Photo%20Restoration.ipynb)
 
 ## [Mini Project 13 : Automatic Number Plate Recognition](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Automatic%20Number%20Plate%20Recognition.ipynb)
-
-## [Mini Project 14 : ]()
-
-## [Mini Project 15 : ]()
