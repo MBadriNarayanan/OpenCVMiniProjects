@@ -1,6 +1,6 @@
 # OpenCVMiniProjects
 
-13 Mini Projects done using OpenCV in Python as a part of Master Computer Vision™ OpenCV4 in Python with Deep Learning course offered by Udemy. Created and taught by Rajeev D. Ratan.
+12 Mini Projects done using OpenCV in Python as a part of Master Computer Vision™ OpenCV4 in Python with Deep Learning course offered by Udemy. Created and taught by Rajeev D. Ratan.
 
 ## [Course Repository](https://github.com/MBadriNarayanan/ComputerVisionWithOpenCV4UsingDeepLearning)
 
