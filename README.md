@@ -20,12 +20,10 @@
 
 ## [Mini Project 8 : Yawn Detector and Counting](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Yawn%20Detector%20and%20Counting.ipynb)
 
-## [Mini Project 9 : ]()
+## [Mini Project 9 : Face Recognition](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Face%20Recognition.ipynb)
 
-## [Mini Project 10 : Face Recognition](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Face%20Recognition.ipynb)
+## [Mini Project 10 : Object Tracking](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Object%20Tracking.ipynb)
 
-## [Mini Project 11 : Object Tracking](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Object%20Tracking.ipynb)
+## [Mini Project 11 : Photo Restoration](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Photo%20Restoration.ipynb)
 
-## [Mini Project 12 : Photo Restoration](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Photo%20Restoration.ipynb)
-
-## [Mini Project 13 : Automatic Number Plate Recognition](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Automatic%20Number%20Plate%20Recognition.ipynb)
+## [Mini Project 12 : Automatic Number Plate Recognition](https://github.com/MBadriNarayanan/OpenCVMiniProjects/blob/master/Automatic%20Number%20Plate%20Recognition.ipynb)
